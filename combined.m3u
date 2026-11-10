@@ -1,6 +1,6 @@
 #EXTM3U
 # SonyLIV Direct CDN Playlist v2.5
-# Generated  : 10 Nov 2026, 19:25:55 IST
+# Generated  : 11 Nov 2026, 04:10:55 IST
 # Token Exp  : 11 Nov 2026, 05:45:33 IST
 # CDN Host   : dishmt.slivcdn.com
 # Channels   : 23
@@ -177,45 +177,38 @@ https://dishmt.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8?hdnea=exp=1794
 #EXTVLCOPT:http-cookie=hdnea=exp=1794356133~acl=/*~id=41167260320099961575575910628656~hmac=f88723da64ba1c47df71333712770302bde3fb9ea65d5ca3951a0dd3a5f16161
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794356133~acl=/*~id=41167260320099961575575910628656~hmac=f88723da64ba1c47df71333712770302bde3fb9ea65d5ca3951a0dd3a5f16161"}
 https://dishmt.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1794356133~acl=/*~id=41167260320099961575575910628656~hmac=f88723da64ba1c47df71333712770302bde3fb9ea65d5ca3951a0dd3a5f16161
-#DATE:- 10-11-2026 19:00
+#DATE:- 10-11-2026 21:00
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250375_53124_SPR_JKB_fc-Web_1793616701881.jpg" group-title="Fancode-Cricket", Nepal Premier League Season 3, 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4250375_english_hls_9f335c869c43687_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794395227~_GO=Generated~acl=/mumbai/4250375_english_hls_9f335c869c43687_1ta-di_h264/*~SessionID=1ecfcd05085593939b608e5dd5635aee_playbox_67be1333-0d36-41~Signature=AbO9BjhfnjRBId2pirDVeQWTNZr0uAUdRJg5nRu9005Ox6Bc1f4Sd__YrGlUxXklVzMcPOk2gHguE7kdzX0OSXbzvOkO
+# Join us on Telegram: https://t.me/jitendraunatti_github
+#EXTINF:-1 tvg-id="1090547482" tvg-name="Kon Honaar Crorepati" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028720/1794286885429707_KHC26_simulcast_10nov_landscape_thumb.jpg" tvg-language="Marathi" group-title="Game show",MAR | Kon Honaar Crorepati
+https://sonymtmnew-akamaized.pages.dev/hls/live/2022318/geclive1011/MAR/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=bf00a94f93d109f430f2fcf930a9ee78-1794324601455
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249497_53078_ROM-W_SVT-W_fc-web.jpg" group-title="Fancode-Football", UEFA Women's Champions League 2026-27 [English]
+https://in-mc-flive.fancode.com/mumbai/4249497_english_hls_8be8cc895482823_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794426739~_GO=Generated~acl=/mumbai/4249497_english_hls_8be8cc895482823_1ta-di_h264/*~SessionID=c6245e24e4767ed92e01088f0918806a_playbox_a7b80e2f-d4e7-44~Signature=AbO9Bji7_ThV1V7IUiQfkHUQZM43iwS6FYFiBWevKBh3wlQ-r16fACLqyQnuf5v8UHFmZWqPnXpSIFOo12DSjgfbc3QF
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Bybit-Stockholm-Open_2026_FC-WEB.jpg" group-title="Fancode-Tennis", ATP 250 - Bybit Stockholm Open 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4250583_english_hls_cdcd2d875963060_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794397649~_GO=Generated~acl=/mumbai/4250583_english_hls_cdcd2d875963060_1ta-di_h264/*~SessionID=e05bfce500dd6cb678163bdef213c5db_playbox_c4ca7337-f3d3-41~Signature=AbO9BjgwOa6Qfx1ikQ4s_e7hdk5BKPE48l2LDeZ6jpIVs3034uIkAmiwxDyo0sbjy2gMvVKvk4qfClC8-QIUCytu9bcJ
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249498_53078_INT-W_MCI-W_fc-web.jpg" group-title="Fancode-Football", UEFA Women's Champions League 2026-27 [English]
+https://in-mc-flive.fancode.com/mumbai/4249498_english_hls_b7778c5c1310073_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794426740~_GO=Generated~acl=/mumbai/4249498_english_hls_b7778c5c1310073_1ta-di_h264/*~SessionID=61772f1ca837a6741004356830f329e0_playbox_59a457df-9d26-46~Signature=AbO9BjgglLFTZB0A6qY3toWcaB5UYDoqmQ--42PvNfjCdkmMYAonzH6dJ0ncO-1-tEhTpceHIt5tAwIajZHBcKOx2kwP
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249499_53078_PSG-W_BAY-W_fc-web.jpg" group-title="Fancode-Football", UEFA Women's Champions League 2026-27 [English]
+https://in-mc-flive.fancode.com/mumbai/4249499_english_hls_a83e32143359693_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794426742~_GO=Generated~acl=/mumbai/4249499_english_hls_a83e32143359693_1ta-di_h264/*~SessionID=d68b6ed8ad93bc18f4f710d38fd1ca44_playbox_4b5ba209-55bd-49~Signature=AbO9Bjg0jdzKSynf4yHuamjGvYnJOcAuutWPGE_3WiqxoaBK7HnzEc0Umb69JGyaQuehR0vJj6UIx4EvziSqfLP6ZOoN
 
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Tuesday, 10 November 2026 at 5:21:18 pm
-#EXTINF:-1 tvg-id="4250375" tvg-name="Sudurpaschim Royals Vs Janakpur Bolts" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250375_53124_SPR_JKB_fc-Web_1793616701881.jpg" tvg-language="English" group-title="Cricket",ENG | Sudurpaschim Royals Vs Janakpur Bolts
-https://dai-fancode.pages.dev/mumbai/4250375_english_hls_9f335c869c43687_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="4250583" tvg-name="World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Bybit-Stockholm-Open_2026_FC-WEB.jpg" tvg-language="English" group-title="Tennis",ENG | World Feed
-https://dai-fancode.pages.dev/mumbai/4250583_english_hls_cdcd2d875963060_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="4250375" tvg-name="Sudurpaschim Royals vs Janakpur Bolts [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250375_53124_SPR_JKB_fc-Web_1793616701881.jpg" group-title="Cricket",Sudurpaschim Royals vs Janakpur Bolts [English]
-https://in-mc-flive.fancode.com/mumbai/4250375_english_hls_9f335c869c43687_1ta-di_h264/720p.m3u8?hdntl=Expires=1794395227~_GO=Generated~acl=/mumbai/4250375_english_hls_9f335c869c43687_1ta-di_h264/*~SessionID=1ecfcd05085593939b608e5dd5635aee_playbox_67be1333-0d36-41~Signature=AbO9BjhfnjRBId2pirDVeQWTNZr0uAUdRJg5nRu9005Ox6Bc1f4Sd__YrGlUxXklVzMcPOk2gHguE7kdzX0OSXbzvOkO
-#EXTINF:-1 tvg-id="4250583" tvg-name="World Feed [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Bybit-Stockholm-Open_2026_FC-WEB.jpg" group-title="Tennis",World Feed [English]
-https://in-mc-flive.fancode.com/mumbai/4250583_english_hls_cdcd2d875963060_1ta-di_h264/720p.m3u8?hdntl=Expires=1794397649~_GO=Generated~acl=/mumbai/4250583_english_hls_cdcd2d875963060_1ta-di_h264/*~SessionID=e05bfce500dd6cb678163bdef213c5db_playbox_c4ca7337-f3d3-41~Signature=AbO9BjgwOa6Qfx1ikQ4s_e7hdk5BKPE48l2LDeZ6jpIVs3034uIkAmiwxDyo0sbjy2gMvVKvk4qfClC8-QIUCytu9bcJ
+#DATE:- Tuesday, 10 November 2026 at 10:28:16 pm
+#EXTINF:-1 tvg-id="4249497" tvg-name="Roma Women vs Servette Women [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249497_53078_ROM-W_SVT-W_fc-web.jpg" group-title="Football",Roma Women vs Servette Women [English]
+https://in-mc-flive.fancode.com/mumbai/4249497_english_hls_8be8cc895482823_1ta-di_h264/720p.m3u8?hdntl=Expires=1794426739~_GO=Generated~acl=/mumbai/4249497_english_hls_8be8cc895482823_1ta-di_h264/*~SessionID=c6245e24e4767ed92e01088f0918806a_playbox_a7b80e2f-d4e7-44~Signature=AbO9Bji7_ThV1V7IUiQfkHUQZM43iwS6FYFiBWevKBh3wlQ-r16fACLqyQnuf5v8UHFmZWqPnXpSIFOo12DSjgfbc3QF
+#EXTINF:-1 tvg-id="4249498" tvg-name="Inter Women vs Manchester City Women [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249498_53078_INT-W_MCI-W_fc-web.jpg" group-title="Football",Inter Women vs Manchester City Women [English]
+https://in-mc-flive.fancode.com/mumbai/4249498_english_hls_b7778c5c1310073_1ta-di_h264/720p.m3u8?hdntl=Expires=1794426740~_GO=Generated~acl=/mumbai/4249498_english_hls_b7778c5c1310073_1ta-di_h264/*~SessionID=61772f1ca837a6741004356830f329e0_playbox_59a457df-9d26-46~Signature=AbO9BjgglLFTZB0A6qY3toWcaB5UYDoqmQ--42PvNfjCdkmMYAonzH6dJ0ncO-1-tEhTpceHIt5tAwIajZHBcKOx2kwP
+#EXTINF:-1 tvg-id="4249499" tvg-name="Paris Saint-Germain Women vs Bayern Munich Women [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249499_53078_PSG-W_BAY-W_fc-web.jpg" group-title="Football",Paris Saint-Germain Women vs Bayern Munich Women [English]
+https://in-mc-flive.fancode.com/mumbai/4249499_english_hls_a83e32143359693_1ta-di_h264/720p.m3u8?hdntl=Expires=1794426742~_GO=Generated~acl=/mumbai/4249499_english_hls_a83e32143359693_1ta-di_h264/*~SessionID=d68b6ed8ad93bc18f4f710d38fd1ca44_playbox_4b5ba209-55bd-49~Signature=AbO9Bjg0jdzKSynf4yHuamjGvYnJOcAuutWPGE_3WiqxoaBK7HnzEc0Umb69JGyaQuehR0vJj6UIx4EvziSqfLP6ZOoN
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Tuesday, 10 November 2026 at 5:21:18 pm
-#EXTINF:-1 tvg-id="4250375" tvg-name="Sudurpaschim Royals Vs Janakpur Bolts" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250375_53124_SPR_JKB_fc-Web_1793616701881.jpg" tvg-language="English" group-title="Cricket",ENG | Sudurpaschim Royals Vs Janakpur Bolts
-https://dai-fancode.pages.dev/mumbai/4250375_english_hls_9f335c869c43687_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="4250583" tvg-name="World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Bybit-Stockholm-Open_2026_FC-WEB.jpg" tvg-language="English" group-title="Tennis",ENG | World Feed
-https://dai-fancode.pages.dev/mumbai/4250583_english_hls_cdcd2d875963060_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#DATE:- Tuesday, 10 November 2026 at 10:28:16 pm
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:08:02 PM 10-11-2026
+#LAST_UPDATE:04:32 AM 11-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:1
-#UPCOMING_COUNT:19
-
-#EXTINF:-1 tvg-id="B0HHQKGLKL" tvg-name="Abu Dhabi T10 League 2026 - 9th Match - Yas Lions vs United Tigers" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b128d7c9-e3b4-4af4-9de8-33cd2dc1e986/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Abu Dhabi T10 League 2026 - 9th Match - Yas Lions vs United Tigers
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0e36b3be8845c0685c6e1a7ce8b3a3e0:d0a6469a598e7159d22717e229e8c18d
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/iv5d90mbif/out/v1/46534ce74ed246389eb9909c8ee1cc2a/cenc.mpd
+#LIVE_COUNT:0
+#UPCOMING_COUNT:20
 
 #DATE:- 28-10-2026 00:15
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
