@@ -1,6 +1,6 @@
 #EXTM3U
 # SonyLIV Direct CDN Playlist v2.5
-# Generated  : 12 Nov 2026, 19:55:56 IST
+# Generated  : 13 Nov 2026, 04:30:59 IST
 # Token Exp  : 13 Nov 2026, 05:39:11 IST
 # CDN Host   : dishmt.slivcdn.com
 # Channels   : 23
@@ -177,11 +177,21 @@ https://dishmt.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8?hdnea=exp=1794
 #EXTVLCOPT:http-cookie=hdnea=exp=1794528551~acl=/*~id=89377184340403922758895672546929~hmac=db9037ea25db9460cde79b2d80f746681834e0c92053883699cf743b9b117f32
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794528551~acl=/*~id=89377184340403922758895672546929~hmac=db9037ea25db9460cde79b2d80f746681834e0c92053883699cf743b9b117f32"}
 https://dishmt.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1794528551~acl=/*~id=89377184340403922758895672546929~hmac=db9037ea25db9460cde79b2d80f746681834e0c92053883699cf743b9b117f32
-#DATE:- 12-11-2026 18:20
+#DATE:- 13-11-2026 00:40
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="1090553557" tvg-name="DP World Tour" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028796/1794398859855427_DP_World_Tour_Championship_Dubai_day1_landscape_thumb.jpg" tvg-language="English" group-title="Golf",ENG | DP World Tour Champinship Dubai - Day 1 - 12 Nov 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2120300/Golf_DPW1211/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=f96e854d6745d2c302b5a35097dd3b01-1794487801361
+#EXTINF:-1 tvg-id="1090553578" tvg-name="UEFA Nations League 2026-27" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027664/1793257198950508_UNL26_MD5_Italy-vs-France_live_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | Italy vs France - 13 Nov 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2120306/Footlive1211/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=94ff304e7023a22934523e265bafc8b5-1794510600246
+#EXTINF:-1 tvg-id="1090553579" tvg-name="UEFA Nations League 2026-27" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027677/1793257674840871_UNL26_MD5_England-vs-Croatia_live_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | England vs Croatia - 13 Nov 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2120307/Footlive1211/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=94ff304e7023a22934523e265bafc8b5-1794510600246
+#EXTINF:-1 tvg-id="1090553573" tvg-name="UEFA Nations League 2026-27" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027664/1793254891164508_UNL26_MD5_Czechia-vs-Spain_live_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | Czechia vs Spain - 13 Nov 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2120304/Footlive1211/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=94ff304e7023a22934523e265bafc8b5-1794510600246
+#EXTINF:-1 tvg-id="1090553576" tvg-name="UEFA Nations League 2026-27" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027664/1793255552146508_UNL26_MD5_Montenegro-vs-Latvia_live_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | Montenegro vs Latvia - 13 Nov 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2120305/Footlive1211/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=94ff304e7023a22934523e265bafc8b5-1794510600246
+#EXTINF:-1 tvg-id="1090553575" tvg-name="UEFA Nations League 2026-27" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027664/1793255214156508_UNL26_MD5_Albania-vs-Finland_live_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | Albania vs Finland - 13 Nov 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2120308/Footlive1211/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=94ff304e7023a22934523e265bafc8b5-1794510600246
+#EXTINF:-1 tvg-id="1090553577" tvg-name="UEFA Nations League 2026-27" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027664/1793256942014508_UNL26_MD5_San-Marino-vs-Belarus_live_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | San Marino vs Belarus - 13 Nov 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/Footlive1211/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=94ff304e7023a22934523e265bafc8b5-1794510600246
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250376_53124_BK_PKA_fc-Web_1793616701804.jpg" group-title="Fancode-Cricket", Nepal Premier League Season 3, 2026 [English]
 https://in-mc-flive.fancode.com/mumbai/4250376_english_hls_06f8df790c25388_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794551600~_GO=Generated~acl=/mumbai/4250376_english_hls_06f8df790c25388_1ta-di_h264/*~SessionID=20fde653298ae09b1231e2c94877ae9f_playbox_845100cd-5fdc-46~Signature=AbO9BjgfyL-FpZ7spkiG2wk2QQTC6UB2OHU7ZKlNcQy4HU3FoWFjTUucHLaPgIbX7QFpbRGK2lYv32eBx3NUFzpDLlIG
 
@@ -194,7 +204,7 @@ https://in-mc-flive.fancode.com/mumbai/4250376_english_hls_06f8df790c25388_1ta-d
 # Join us on Telegram: https://t.me/jitendraunatti_github
 #DATE:- Wednesday, 11 November 2026 at 6:05:32 pm
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:08:02 PM 12-11-2026
+#LAST_UPDATE:05:02 AM 13-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:0
