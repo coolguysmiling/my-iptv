@@ -1,204 +1,82 @@
 #EXTM3U
-# SonyLIV Direct CDN Playlist v2.5
-# Generated  : 14 Nov 2026, 01:05:55 IST
-# Token Exp  : 14 Nov 2026, 05:36:13 IST
-# CDN Host   : dishmt.slivcdn.com
-# Channels   : 23
-# Token embedded in each URL as ?hdnea=...
-# Cookie: hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38
-
-
-# ── Entertainment ──
-#EXTINF:-1 tvg-id="set-hd.sonyliv" tvg-name="SET HD" group-title="SonyLIV Entertainment",SET HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-cookie=hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38"}
-https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38
-
-#EXTINF:-1 tvg-id="sab-hd.sonyliv" tvg-name="Sony SAB HD" group-title="SonyLIV Entertainment",Sony SAB HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-cookie=hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38"}
-https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38
-
-#EXTINF:-1 tvg-id="marathi.sonyliv" tvg-name="Sony Marathi" group-title="SonyLIV Entertainment",Sony Marathi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-cookie=hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38"}
-https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38
-
-#EXTINF:-1 tvg-id="pal.sonyliv" tvg-name="Sony Pal" group-title="SonyLIV Entertainment",Sony Pal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-cookie=hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38"}
-https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38
-
-#EXTINF:-1 tvg-id="aath.sonyliv" tvg-name="Sony Aath" group-title="SonyLIV Entertainment",Sony Aath
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-cookie=hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38"}
-https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38
-
-
-# ── Kids ──
-#EXTINF:-1 tvg-id="yay.sonyliv" tvg-name="Sony Yay" group-title="SonyLIV Kids",Sony Yay
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-cookie=hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38"}
-https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38
-
-
-# ── Movies ──
-#EXTINF:-1 tvg-id="max-hd.sonyliv" tvg-name="Sony MAX HD" group-title="SonyLIV Movies",Sony MAX HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-cookie=hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38"}
-https://dishmt.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38
-
-#EXTINF:-1 tvg-id="max.sonyliv" tvg-name="Sony MAX" group-title="SonyLIV Movies",Sony MAX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-cookie=hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38"}
-https://dishmt.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38
-
-#EXTINF:-1 tvg-id="max2.sonyliv" tvg-name="Sony MAX 2" group-title="SonyLIV Movies",Sony MAX 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-cookie=hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38"}
-https://dishmt.slivcdn.com/hls/live/2011908/MAX2/master.m3u8?hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38
-
-#EXTINF:-1 tvg-id="wah.sonyliv" tvg-name="Sony WAH" group-title="SonyLIV Movies",Sony WAH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-cookie=hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38"}
-https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38
-
-#EXTINF:-1 tvg-id="pix-hd.sonyliv" tvg-name="Sony PIX HD" group-title="SonyLIV Movies",Sony PIX HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-cookie=hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38"}
-https://dishmt.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38
-
-
-# ── Sports ──
-#EXTINF:-1 tvg-id="ten1-hd.sonyliv" tvg-name="Sony Ten 1 HD" group-title="SonyLIV Sports",Sony Ten 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-cookie=hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38"}
-https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38
-
-#EXTINF:-1 tvg-id="ten1.sonyliv" tvg-name="Sony Ten 1" group-title="SonyLIV Sports",Sony Ten 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-cookie=hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38"}
-https://dishmt.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8?hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38
-
-#EXTINF:-1 tvg-id="ten2-hd.sonyliv" tvg-name="Sony Ten 2 HD" group-title="SonyLIV Sports",Sony Ten 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-cookie=hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38"}
-https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38
-
-#EXTINF:-1 tvg-id="ten2.sonyliv" tvg-name="Sony Ten 2" group-title="SonyLIV Sports",Sony Ten 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-cookie=hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38"}
-https://dishmt.slivcdn.com/hls/live/2020590/TEN2SD/master.m3u8?hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38
-
-#EXTINF:-1 tvg-id="ten3-hd.sonyliv" tvg-name="Sony Ten 3 HD" group-title="SonyLIV Sports",Sony Ten 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-cookie=hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38"}
-https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38
-
-#EXTINF:-1 tvg-id="ten3.sonyliv" tvg-name="Sony Ten 3" group-title="SonyLIV Sports",Sony Ten 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-cookie=hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38"}
-https://dishmt.slivcdn.com/hls/live/2020592/TEN3SD/master.m3u8?hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38
-
-#EXTINF:-1 tvg-id="ten4-hd.sonyliv" tvg-name="Sony Ten 4 HD" group-title="SonyLIV Sports",Sony Ten 4 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-cookie=hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38"}
-https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38
-
-#EXTINF:-1 tvg-id="ten4.sonyliv" tvg-name="Sony Ten 4" group-title="SonyLIV Sports",Sony Ten 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-cookie=hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38"}
-https://dishmt.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8?hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38
-
-#EXTINF:-1 tvg-id="ten4-kan.sonyliv" tvg-name="Sony Ten 4 Kannada" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1tRFuWjkv6MwDRneqUVbe6kAvhuwukT86HcBLDbZA7Q&amp;s=10" group-title="SonyLIV Sports",Sony Ten 4 Kannada
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-cookie=hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38"}
-https://dishmt.slivcdn.com/hls/live/2020589/ten4kannada/master.m3u8?hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38
-
-#EXTINF:-1 tvg-id="ten5-hd.sonyliv" tvg-name="Sony Ten 5 HD" group-title="SonyLIV Sports",Sony Ten 5 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-cookie=hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38"}
-https://dishmt.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8?hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38
-
-#EXTINF:-1 tvg-id="ten5.sonyliv" tvg-name="Sony Ten 5" group-title="SonyLIV Sports",Sony Ten 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-cookie=hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38"}
-https://dishmt.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8?hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38
-
-
-# ── Infotainment ──
-#EXTINF:-1 tvg-id="bbc-earth.sonyliv" tvg-name="BBC Earth HD" group-title="SonyLIV Infotainment",BBC Earth HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-cookie=hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38"}
-https://dishmt.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38
-#DATE:- 14-11-2026 07:40
+#EXTINF:-1 tvg-name="Sony Entertainment Television HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Sony Live",Sony Entertainment Television HD
+https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1794701341~acl=/*~id=75023746568901567395704516654812~hmac=b224ad308ead220fbd333a3ebd37db63fc800db86124ed189d51c9705805e9c9
+#EXTINF:-1 tvg-name="Sony SAB HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Sony Live",Sony SAB HD
+https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1794701341~acl=/*~id=75023746568901567395704516654812~hmac=b224ad308ead220fbd333a3ebd37db63fc800db86124ed189d51c9705805e9c9
+#EXTINF:-1 tvg-name="Sony PAL" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Sony Live",Sony PAL
+https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1794701341~acl=/*~id=75023746568901567395704516654812~hmac=b224ad308ead220fbd333a3ebd37db63fc800db86124ed189d51c9705805e9c9
+#EXTINF:-1 tvg-name="Sony WAH" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Sony Live",Sony WAH
+https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1794701341~acl=/*~id=75023746568901567395704516654812~hmac=b224ad308ead220fbd333a3ebd37db63fc800db86124ed189d51c9705805e9c9
+#EXTINF:-1 tvg-name="Sony MAX" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="Sony Live",Sony MAX
+https://dishmt.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1794701341~acl=/*~id=75023746568901567395704516654812~hmac=b224ad308ead220fbd333a3ebd37db63fc800db86124ed189d51c9705805e9c9
+#EXTINF:-1 tvg-name="Sony MAX HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Sony Live",Sony MAX HD
+https://dishmt.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1794701341~acl=/*~id=75023746568901567395704516654812~hmac=b224ad308ead220fbd333a3ebd37db63fc800db86124ed189d51c9705805e9c9
+#EXTINF:-1 tvg-name="Sony MAX 2" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Sony Live",Sony MAX 2
+https://dishmt.slivcdn.com/hls/live/2011908/MAX2/master.m3u8?hdnea=exp=1794701341~acl=/*~id=75023746568901567395704516654812~hmac=b224ad308ead220fbd333a3ebd37db63fc800db86124ed189d51c9705805e9c9
+#EXTINF:-1 tvg-name="Sony PIX HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Sony Live",Sony PIX HD
+https://dishmt.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1794701341~acl=/*~id=75023746568901567395704516654812~hmac=b224ad308ead220fbd333a3ebd37db63fc800db86124ed189d51c9705805e9c9
+#EXTINF:-1 tvg-name="Sony BBC Earth HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Sony Live",Sony BBC Earth HD
+https://dishmt.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1794701341~acl=/*~id=75023746568901567395704516654812~hmac=b224ad308ead220fbd333a3ebd37db63fc800db86124ed189d51c9705805e9c9
+#EXTINF:-1 tvg-name="Sony YAY !!" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/12_259.png" group-title="Sony Live",Sony YAY !!
+https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1794701341~acl=/*~id=75023746568901567395704516654812~hmac=b224ad308ead220fbd333a3ebd37db63fc800db86124ed189d51c9705805e9c9
+#EXTINF:-1 tvg-name="Sony Marathi !!" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="Sony Live",Sony Marathi !!
+https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=1794701341~acl=/*~id=75023746568901567395704516654812~hmac=b224ad308ead220fbd333a3ebd37db63fc800db86124ed189d51c9705805e9c9
+#EXTINF:-1 tvg-name="Sony AATH" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="Sony Live",Sony AATH
+https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1794701341~acl=/*~id=75023746568901567395704516654812~hmac=b224ad308ead220fbd333a3ebd37db63fc800db86124ed189d51c9705805e9c9
+#EXTINF:-1 tvg-name="Sony Sports 1" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/20_262.png" group-title="Sony Live",Sony Sports 1
+https://dishmt.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8?hdnea=exp=1794701341~acl=/*~id=75023746568901567395704516654812~hmac=b224ad308ead220fbd333a3ebd37db63fc800db86124ed189d51c9705805e9c9
+#EXTINF:-1 tvg-name="Sony Sports 1 HD" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/21_266.png" group-title="Sony Live",Sony Sports 1 HD
+https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1794701341~acl=/*~id=75023746568901567395704516654812~hmac=b224ad308ead220fbd333a3ebd37db63fc800db86124ed189d51c9705805e9c9
+#EXTINF:-1 tvg-name="Sony Sports 2" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/22_261.png" group-title="Sony Live",Sony Sports 2
+https://dishmt.slivcdn.com/hls/live/2020590/TEN2SD/master.m3u8?hdnea=exp=1794701341~acl=/*~id=75023746568901567395704516654812~hmac=b224ad308ead220fbd333a3ebd37db63fc800db86124ed189d51c9705805e9c9
+#EXTINF:-1 tvg-name="Sony Sports 2 HD" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/23_267.png" group-title="Sony Live",Sony Sports 2 HD
+https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?hdnea=exp=1794701341~acl=/*~id=75023746568901567395704516654812~hmac=b224ad308ead220fbd333a3ebd37db63fc800db86124ed189d51c9705805e9c9
+#EXTINF:-1 tvg-name="Sony Sports 3 Hindi" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/24_274.png" group-title="Sony Live",Sony Sports 3 Hindi
+https://dishmt.slivcdn.com/hls/live/2020592/TEN3SD/master.m3u8?hdnea=exp=1794701341~acl=/*~id=75023746568901567395704516654812~hmac=b224ad308ead220fbd333a3ebd37db63fc800db86124ed189d51c9705805e9c9
+#EXTINF:-1 tvg-name="Sony Sports 3 Hindi HD" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/25_276.png" group-title="Sony Live",Sony Sports 3 Hindi HD
+https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1794701341~acl=/*~id=75023746568901567395704516654812~hmac=b224ad308ead220fbd333a3ebd37db63fc800db86124ed189d51c9705805e9c9
+#EXTINF:-1 tvg-name="Sony Sports 4 Tamil" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/38_275.png" group-title="Sony Live",Sony Sports 4 Tamil
+https://dishmt.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8?hdnea=exp=1794701341~acl=/*~id=75023746568901567395704516654812~hmac=b224ad308ead220fbd333a3ebd37db63fc800db86124ed189d51c9705805e9c9
+#EXTINF:-1 tvg-name="Sony Sports 4 Telugu" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/39_277.png" group-title="Sony Live",Sony Sports 4 Telugu
+https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1794701341~acl=/*~id=75023746568901567395704516654812~hmac=b224ad308ead220fbd333a3ebd37db63fc800db86124ed189d51c9705805e9c9
+#EXTINF:-1 tvg-name="Sony Sports 4 Kannada" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/SONY-SPORTS-TEN-4-KANNADA.png" group-title="Sony Live",Sony Sports 4 Kannada
+https://dishmt.slivcdn.com/hls/live/2020589-b/ten4hd/master.m3u8?hdnea=exp=1794701341~acl=/*~id=75023746568901567395704516654812~hmac=b224ad308ead220fbd333a3ebd37db63fc800db86124ed189d51c9705805e9c9
+#EXTINF:-1 tvg-name="Sony Sports 5" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/18_265.png" group-title="Sony Live",Sony Sports 5
+https://dishmt.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8?hdnea=exp=1794701341~acl=/*~id=75023746568901567395704516654812~hmac=b224ad308ead220fbd333a3ebd37db63fc800db86124ed189d51c9705805e9c9
+#EXTINF:-1 tvg-name="Sony Sports 5 HD" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/19_270.png" group-title="Sony Live",Sony Sports 5 HD
+https://dishmt.slivcdn.com/hls/live/2020593/TEN5HD/master.m3u8?hdnea=exp=1794701341~acl=/*~id=75023746568901567395704516654812~hmac=b224ad308ead220fbd333a3ebd37db63fc800db86124ed189d51c9705805e9c9
+#DATE:- 14-11-2026 14:00
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="1090553928" tvg-name="Asian Tour 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027302/1792887700360295_ASIANTOUR2026_Philippine_Open_Day3_landscape_thumb.jpg" tvg-language="English" group-title="Golf",ENG | Philippine Open - Day 3 - 14 Nov 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/Golf_Phi1411/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=05197d7f0bc1e7d933e902d1b45d48a6-1794622202582
+#EXTINF:-1 tvg-id="1090553929" tvg-name="ACC Men's U19 Asia Cup 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg" tvg-language="English" group-title="Cricket",ENG | Pakistan vs India - Final - 14 Nov 2026
+https://sonymtmnew-akamaized.pages.dev/out/v1/mpchgp431f/mpchc857/cricodi_1411-eng-1-ts-hls/std-lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6001a8d3f64a73637717fca269b7b106-1794645000448
+#EXTINF:-1 tvg-id="1090553929" tvg-name="ACC Men's U19 Asia Cup 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg" tvg-language="Hindi" group-title="Cricket",HIN | Pakistan vs India - Final - 14 Nov 2026
+https://sonymtmnew-akamaized.pages.dev/out/v1/mpchgp431f/mpch8872/cricodi_1411-hin-1-ts-hls/std-lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6001a8d3f64a73637717fca269b7b106-1794645000448
+#EXTINF:-1 tvg-id="1090553929" tvg-name="ACC Men's U19 Asia Cup 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg" tvg-language="Tamil" group-title="Cricket",TAM | Pakistan vs India - Final - 14 Nov 2026
+https://sonymtmnew-akamaized.pages.dev/out/v1/mpchgp431f/mpche169/cricodi_1411-tam-1-ts-hls/std-lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6001a8d3f64a73637717fca269b7b106-1794645000448
+#EXTINF:-1 tvg-id="1090553929" tvg-name="ACC Men's U19 Asia Cup 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg" tvg-language="Telugu" group-title="Cricket",TEL | Pakistan vs India - Final - 14 Nov 2026
+https://sonymtmnew-akamaized.pages.dev/out/v1/mpchgp431f/mpchb9e7/cricodi_1411-tel-1-ts-hls/std-lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6001a8d3f64a73637717fca269b7b106-1794645000448
+#EXTINF:-1 tvg-id="1090553929" tvg-name="ACC Men's U19 Asia Cup 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg" tvg-language="Kannada" group-title="Cricket",KAN | Pakistan vs India - Final - 14 Nov 2026
+https://sonymtmnew-akamaized.pages.dev/out/v1/mpchgp431f/mpcha075/cricodi_1411-kan-1-ts-hls/std-lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6001a8d3f64a73637717fca269b7b106-1794645000448
+#EXTINF:-1 tvg-id="1090553932" tvg-name="DP World Tour" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028796/1794398873589427_DP_World_Tour_Championship_Dubai_day3_landscape_thumb.jpg" tvg-language="English" group-title="Golf",ENG | DP World Tour Championship Dubai - Day 3 - 14 Nov 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/Golf_DPW1411/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6001a8d3f64a73637717fca269b7b106-1794645000448
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg" group-title="sonyliv-Cricket", Pakistan vs India - Final - 14 Nov 2026 [ENG] - ACC Men's U19 Asia Cup 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794673364~acl=/*~id=65834811098606931740784566138698~hmac=55ba6cd5b2ee74e28bbb7c6f9fe469db5ea10ef1cf3c142d3231661449f4c311
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794703329~acl=/*~id=16609609078188804395116945772044~hmac=969049e317c39dbd51ed9bbd091db6ce48ce22ac8da6724bfde36b7ebf0f96fb
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg" group-title="sonyliv-Cricket", Pakistan vs India - Final - 14 Nov 2026 [HIN] - ACC Men's U19 Asia Cup 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794673364~acl=/*~id=65834811098606931740784566138698~hmac=55ba6cd5b2ee74e28bbb7c6f9fe469db5ea10ef1cf3c142d3231661449f4c311
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794703329~acl=/*~id=16609609078188804395116945772044~hmac=969049e317c39dbd51ed9bbd091db6ce48ce22ac8da6724bfde36b7ebf0f96fb
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg" group-title="sonyliv-Cricket", Pakistan vs India - Final - 14 Nov 2026 [TAM] - ACC Men's U19 Asia Cup 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794673364~acl=/*~id=65834811098606931740784566138698~hmac=55ba6cd5b2ee74e28bbb7c6f9fe469db5ea10ef1cf3c142d3231661449f4c311
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794703329~acl=/*~id=16609609078188804395116945772044~hmac=969049e317c39dbd51ed9bbd091db6ce48ce22ac8da6724bfde36b7ebf0f96fb
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg" group-title="sonyliv-Cricket", Pakistan vs India - Final - 14 Nov 2026 [TEL] - ACC Men's U19 Asia Cup 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794673364~acl=/*~id=65834811098606931740784566138698~hmac=55ba6cd5b2ee74e28bbb7c6f9fe469db5ea10ef1cf3c142d3231661449f4c311
+https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794703329~acl=/*~id=16609609078188804395116945772044~hmac=969049e317c39dbd51ed9bbd091db6ce48ce22ac8da6724bfde36b7ebf0f96fb
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg" group-title="sonyliv-Cricket", Pakistan vs India - Final - 14 Nov 2026 [KAN] - ACC Men's U19 Asia Cup 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794673364~acl=/*~id=65834811098606931740784566138698~hmac=55ba6cd5b2ee74e28bbb7c6f9fe469db5ea10ef1cf3c142d3231661449f4c311
+https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794703329~acl=/*~id=16609609078188804395116945772044~hmac=969049e317c39dbd51ed9bbd091db6ce48ce22ac8da6724bfde36b7ebf0f96fb
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027302/1792887700360295_ASIANTOUR2026_Philippine_Open_Day3_landscape_thumb.jpg" group-title="sonyliv-Golf", Philippine Open - Day 3 - 14 Nov 2026 [ENG] - Asian Tour 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2094589/Golf_Phi1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794673364~acl=/*~id=65834811098606931740784566138698~hmac=55ba6cd5b2ee74e28bbb7c6f9fe469db5ea10ef1cf3c142d3231661449f4c311
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028796/1794398873589427_DP_World_Tour_Championship_Dubai_day3_landscape_thumb.jpg" group-title="sonyliv-Golf", DP World Tour Championship, Dubai - Day 3 - 14 Nov 2026 [ENG] - DP World Tour
+https://sonyeventsglobal.akamaized.net/hls/live/2005444/Golf_DPW1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794703329~acl=/*~id=16609609078188804395116945772044~hmac=969049e317c39dbd51ed9bbd091db6ce48ce22ac8da6724bfde36b7ebf0f96fb
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250376_53124_BK_PKA_fc-Web_1793616701804.jpg" group-title="Fancode-Cricket", Nepal Premier League Season 3, 2026 [English]
 https://in-mc-flive.fancode.com/mumbai/4250376_english_hls_06f8df790c25388_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794551600~_GO=Generated~acl=/mumbai/4250376_english_hls_06f8df790c25388_1ta-di_h264/*~SessionID=20fde653298ae09b1231e2c94877ae9f_playbox_845100cd-5fdc-46~Signature=AbO9BjgfyL-FpZ7spkiG2wk2QQTC6UB2OHU7ZKlNcQy4HU3FoWFjTUucHLaPgIbX7QFpbRGK2lYv32eBx3NUFzpDLlIG
@@ -212,29 +90,71 @@ https://in-mc-flive.fancode.com/mumbai/4250376_english_hls_06f8df790c25388_1ta-d
 # Join us on Telegram: https://t.me/jitendraunatti_github
 #DATE:- Wednesday, 11 November 2026 at 6:05:32 pm
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg" group-title="sonyliv-Cricket", Pakistan vs India - Final - 14 Nov 2026 [ENG] - ACC Men's U19 Asia Cup 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794673364~acl=/*~id=65834811098606931740784566138698~hmac=55ba6cd5b2ee74e28bbb7c6f9fe469db5ea10ef1cf3c142d3231661449f4c311
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794703329~acl=/*~id=16609609078188804395116945772044~hmac=969049e317c39dbd51ed9bbd091db6ce48ce22ac8da6724bfde36b7ebf0f96fb
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg" group-title="sonyliv-Cricket", Pakistan vs India - Final - 14 Nov 2026 [HIN] - ACC Men's U19 Asia Cup 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794673364~acl=/*~id=65834811098606931740784566138698~hmac=55ba6cd5b2ee74e28bbb7c6f9fe469db5ea10ef1cf3c142d3231661449f4c311
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794703329~acl=/*~id=16609609078188804395116945772044~hmac=969049e317c39dbd51ed9bbd091db6ce48ce22ac8da6724bfde36b7ebf0f96fb
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg" group-title="sonyliv-Cricket", Pakistan vs India - Final - 14 Nov 2026 [TAM] - ACC Men's U19 Asia Cup 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794673364~acl=/*~id=65834811098606931740784566138698~hmac=55ba6cd5b2ee74e28bbb7c6f9fe469db5ea10ef1cf3c142d3231661449f4c311
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794703329~acl=/*~id=16609609078188804395116945772044~hmac=969049e317c39dbd51ed9bbd091db6ce48ce22ac8da6724bfde36b7ebf0f96fb
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg" group-title="sonyliv-Cricket", Pakistan vs India - Final - 14 Nov 2026 [TEL] - ACC Men's U19 Asia Cup 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794673364~acl=/*~id=65834811098606931740784566138698~hmac=55ba6cd5b2ee74e28bbb7c6f9fe469db5ea10ef1cf3c142d3231661449f4c311
+https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794703329~acl=/*~id=16609609078188804395116945772044~hmac=969049e317c39dbd51ed9bbd091db6ce48ce22ac8da6724bfde36b7ebf0f96fb
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg" group-title="sonyliv-Cricket", Pakistan vs India - Final - 14 Nov 2026 [KAN] - ACC Men's U19 Asia Cup 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794673364~acl=/*~id=65834811098606931740784566138698~hmac=55ba6cd5b2ee74e28bbb7c6f9fe469db5ea10ef1cf3c142d3231661449f4c311
+https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794703329~acl=/*~id=16609609078188804395116945772044~hmac=969049e317c39dbd51ed9bbd091db6ce48ce22ac8da6724bfde36b7ebf0f96fb
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027302/1792887700360295_ASIANTOUR2026_Philippine_Open_Day3_landscape_thumb.jpg" group-title="sonyliv-Golf", Philippine Open - Day 3 - 14 Nov 2026 [ENG] - Asian Tour 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2094589/Golf_Phi1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794673364~acl=/*~id=65834811098606931740784566138698~hmac=55ba6cd5b2ee74e28bbb7c6f9fe469db5ea10ef1cf3c142d3231661449f4c311
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028796/1794398873589427_DP_World_Tour_Championship_Dubai_day3_landscape_thumb.jpg" group-title="sonyliv-Golf", DP World Tour Championship, Dubai - Day 3 - 14 Nov 2026 [ENG] - DP World Tour
+https://sonyeventsglobal.akamaized.net/hls/live/2005444/Golf_DPW1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794703329~acl=/*~id=16609609078188804395116945772044~hmac=969049e317c39dbd51ed9bbd091db6ce48ce22ac8da6724bfde36b7ebf0f96fb
 
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:10:02 AM 14-11-2026
+#LAST_UPDATE:06:32 PM 14-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:0
-#UPCOMING_COUNT:35
+#LIVE_COUNT:3
+#UPCOMING_COUNT:32
 
-#DATE:- 28-10-2026 00:15
+#EXTINF:-1 tvg-id="B0HPTVJM1M" tvg-name="ACC Mens U19 Asia Cup 2026 - Final - Pakistan U19 vs India U19" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.904507c1-17ab-40ca-bb74-220df1e3d76e/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",ACC Mens U19 Asia Cup 2026 - Final - Pakistan U19 vs India U19
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d9898b922c715df238b810032f99e04:24ce2fd66d77c73540f129ae83c967d7
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jqiewsbcdo/out/v1/c61fbf5480da4d94a2cd238d8be4b227/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HP83ZWBB" tvg-name="Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c946453d-7025-4e95-9564-d2a336954242/5/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9373c3f08c6578544e0ea1999e95418b:10a7f6e8177486dfca9bb5696779dd02
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kyet9ip63b/out/v1/5442e2d930ff4dd18be5ba46198ac3f8/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HQRT2C3Q" tvg-name="Abu Dhabi T10 League 2026 - 16th Match - Royal Desert Champions vs United Tigers" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9212c715-58a4-4bc8-9a0e-5fa489c76ddf/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Abu Dhabi T10 League 2026 - 16th Match - Royal Desert Champions vs United Tigers
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5cbb452aa747899eec0423039edd4a1:ef75fa617bda5097c77888502c656b07
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qu4sfeik4v/out/v1/5e68b5b688b547cdb087eb4c7f34a512/cenc.mpd
+
+#DATE:- 14-11-2026 12:45
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
+# Join us on Telegram: https://t.me/jitendraunatti_github
+#EXTINF:-1 tvg-id="amzn1.dv.gti.9c910447-db3d-4f06-abf3-1c2ef1b5e2df" tvg-lang="ENGLISH" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9c910447-db3d-4f06-abf3-1c2ef1b5e2df/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Sports",ENG | Pakistan vs India - Final - 14 Nov 2026
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wy9OobTdTkc27mZ-4Cqouw","k":"OukhsR09yrtUp0M_Blwu-g"},{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"}]}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+#EXTVLCOPT:http-origin=https://www.primevideo.com
+#EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2fqqd9w1dv/out/v1/640bbe357b4e4656a3a25ef401b40943/cenc.mpd
+#EXTINF:-1 tvg-id="amzn1.dv.gti.f62c316b-0ae8-4a18-b234-834b21025df0" tvg-lang="ENGLISH" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f62c316b-0ae8-4a18-b234-834b21025df0/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Sports",ENG | DP World Tour Championship, Dubai - Day 3 - 14 Nov 2026
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"h6z-keoUrY7CAXTACO5QLg","k":"s_WsIxNYKuA7vFbShImxfA"},{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"}]}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+#EXTVLCOPT:http-origin=https://www.primevideo.com
+#EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
+https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qksbstjptb/out/v1/73238e53cb7f4a798bcde6dd77abf818/cenc.mpd
