@@ -177,8 +177,29 @@ https://dishmt.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8?hdnea=exp=1794
 #EXTVLCOPT:http-cookie=hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38"}
 https://dishmt.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1794614773~acl=/*~id=84617784750096527926750403553125~hmac=823971d82a36d038506532a809c1cda3a9b61d16c2fbd2658741ae0383c15e38
-#DATE:- 14-11-2026 03:20
+#DATE:- 14-11-2026 07:40
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
+# Join us on Telegram: https://t.me/jitendraunatti_github
+#EXTINF:-1 tvg-id="1090553928" tvg-name="Asian Tour 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027302/1792887700360295_ASIANTOUR2026_Philippine_Open_Day3_landscape_thumb.jpg" tvg-language="English" group-title="Golf",ENG | Philippine Open - Day 3 - 14 Nov 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/Golf_Phi1411/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=05197d7f0bc1e7d933e902d1b45d48a6-1794622202582
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg" group-title="sonyliv-Cricket", Pakistan vs India - Final - 14 Nov 2026 [ENG] - ACC Men's U19 Asia Cup 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794673364~acl=/*~id=65834811098606931740784566138698~hmac=55ba6cd5b2ee74e28bbb7c6f9fe469db5ea10ef1cf3c142d3231661449f4c311
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg" group-title="sonyliv-Cricket", Pakistan vs India - Final - 14 Nov 2026 [HIN] - ACC Men's U19 Asia Cup 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794673364~acl=/*~id=65834811098606931740784566138698~hmac=55ba6cd5b2ee74e28bbb7c6f9fe469db5ea10ef1cf3c142d3231661449f4c311
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg" group-title="sonyliv-Cricket", Pakistan vs India - Final - 14 Nov 2026 [TAM] - ACC Men's U19 Asia Cup 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794673364~acl=/*~id=65834811098606931740784566138698~hmac=55ba6cd5b2ee74e28bbb7c6f9fe469db5ea10ef1cf3c142d3231661449f4c311
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg" group-title="sonyliv-Cricket", Pakistan vs India - Final - 14 Nov 2026 [TEL] - ACC Men's U19 Asia Cup 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794673364~acl=/*~id=65834811098606931740784566138698~hmac=55ba6cd5b2ee74e28bbb7c6f9fe469db5ea10ef1cf3c142d3231661449f4c311
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg" group-title="sonyliv-Cricket", Pakistan vs India - Final - 14 Nov 2026 [KAN] - ACC Men's U19 Asia Cup 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794673364~acl=/*~id=65834811098606931740784566138698~hmac=55ba6cd5b2ee74e28bbb7c6f9fe469db5ea10ef1cf3c142d3231661449f4c311
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027302/1792887700360295_ASIANTOUR2026_Philippine_Open_Day3_landscape_thumb.jpg" group-title="sonyliv-Golf", Philippine Open - Day 3 - 14 Nov 2026 [ENG] - Asian Tour 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2094589/Golf_Phi1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794673364~acl=/*~id=65834811098606931740784566138698~hmac=55ba6cd5b2ee74e28bbb7c6f9fe469db5ea10ef1cf3c142d3231661449f4c311
+
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250376_53124_BK_PKA_fc-Web_1793616701804.jpg" group-title="Fancode-Cricket", Nepal Premier League Season 3, 2026 [English]
 https://in-mc-flive.fancode.com/mumbai/4250376_english_hls_06f8df790c25388_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794551600~_GO=Generated~acl=/mumbai/4250376_english_hls_06f8df790c25388_1ta-di_h264/*~SessionID=20fde653298ae09b1231e2c94877ae9f_playbox_845100cd-5fdc-46~Signature=AbO9BjgfyL-FpZ7spkiG2wk2QQTC6UB2OHU7ZKlNcQy4HU3FoWFjTUucHLaPgIbX7QFpbRGK2lYv32eBx3NUFzpDLlIG
 
@@ -190,8 +211,26 @@ https://in-mc-flive.fancode.com/mumbai/4250376_english_hls_06f8df790c25388_1ta-d
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
 #DATE:- Wednesday, 11 November 2026 at 6:05:32 pm
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg" group-title="sonyliv-Cricket", Pakistan vs India - Final - 14 Nov 2026 [ENG] - ACC Men's U19 Asia Cup 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794673364~acl=/*~id=65834811098606931740784566138698~hmac=55ba6cd5b2ee74e28bbb7c6f9fe469db5ea10ef1cf3c142d3231661449f4c311
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg" group-title="sonyliv-Cricket", Pakistan vs India - Final - 14 Nov 2026 [HIN] - ACC Men's U19 Asia Cup 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794673364~acl=/*~id=65834811098606931740784566138698~hmac=55ba6cd5b2ee74e28bbb7c6f9fe469db5ea10ef1cf3c142d3231661449f4c311
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg" group-title="sonyliv-Cricket", Pakistan vs India - Final - 14 Nov 2026 [TAM] - ACC Men's U19 Asia Cup 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794673364~acl=/*~id=65834811098606931740784566138698~hmac=55ba6cd5b2ee74e28bbb7c6f9fe469db5ea10ef1cf3c142d3231661449f4c311
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg" group-title="sonyliv-Cricket", Pakistan vs India - Final - 14 Nov 2026 [TEL] - ACC Men's U19 Asia Cup 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794673364~acl=/*~id=65834811098606931740784566138698~hmac=55ba6cd5b2ee74e28bbb7c6f9fe469db5ea10ef1cf3c142d3231661449f4c311
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg" group-title="sonyliv-Cricket", Pakistan vs India - Final - 14 Nov 2026 [KAN] - ACC Men's U19 Asia Cup 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794673364~acl=/*~id=65834811098606931740784566138698~hmac=55ba6cd5b2ee74e28bbb7c6f9fe469db5ea10ef1cf3c142d3231661449f4c311
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027302/1792887700360295_ASIANTOUR2026_Philippine_Open_Day3_landscape_thumb.jpg" group-title="sonyliv-Golf", Philippine Open - Day 3 - 14 Nov 2026 [ENG] - Asian Tour 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2094589/Golf_Phi1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794673364~acl=/*~id=65834811098606931740784566138698~hmac=55ba6cd5b2ee74e28bbb7c6f9fe469db5ea10ef1cf3c142d3231661449f4c311
+
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:05:02 AM 14-11-2026
+#LAST_UPDATE:10:02 AM 14-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:0
