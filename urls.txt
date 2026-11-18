@@ -11,3 +11,6 @@ https://raw.githubusercontent.com/doctor-8trange/tekzya9/refs/heads/main/data/pr
 https://raw.githubusercontent.com/sayanpal514-hue/FANCODE-AUTO-UPDATED-PLAYLIST/refs/heads/main/fancode.m3u
 https://raw.githubusercontent.com/sportlive18/Willow-Cricbuzz-Prime-Video-Sport-Live-Event-Auto-Updated-Playlist/refs/heads/main/primesport.m3u
 https://raw.githubusercontent.com/sportlive18/Willow-Cricbuzz-Prime-Video-Sport-Live-Event-Auto-Updated-Playlist/refs/heads/main/willow.m3u
+https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/live_sports.m3u
+https://sportlink-playlist.pages.dev/zio.m3u
+https://sportlink-playlist.pages.dev/tstar.m3u
