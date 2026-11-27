@@ -14,141 +14,128 @@
 # Some Content May Also Be Under CC0 1.0
 # ============================================================
 #EXTINF:-1 tvg-name="Sony Entertainment Television HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Sony Live",Sony Entertainment Television HD
-https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1795741869~acl=/*~id=03511257821444669066188322389083~hmac=7caa70868ef922f8eb992cb14d71d017771aac28e77f75fcda00dcb546d1adc9
+https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1795778787~acl=/*~id=86252091218562624959991470479237~hmac=dab2354208a4e6ad02732c6fcf2b6242099413dd6f90bae9ce8f8f195eb8c71e
 #EXTINF:-1 tvg-name="Sony SAB HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Sony Live",Sony SAB HD
-https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1795741869~acl=/*~id=03511257821444669066188322389083~hmac=7caa70868ef922f8eb992cb14d71d017771aac28e77f75fcda00dcb546d1adc9
+https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1795778787~acl=/*~id=86252091218562624959991470479237~hmac=dab2354208a4e6ad02732c6fcf2b6242099413dd6f90bae9ce8f8f195eb8c71e
 #EXTINF:-1 tvg-name="Sony PAL" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Sony Live",Sony PAL
-https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1795741869~acl=/*~id=03511257821444669066188322389083~hmac=7caa70868ef922f8eb992cb14d71d017771aac28e77f75fcda00dcb546d1adc9
+https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1795778787~acl=/*~id=86252091218562624959991470479237~hmac=dab2354208a4e6ad02732c6fcf2b6242099413dd6f90bae9ce8f8f195eb8c71e
 #EXTINF:-1 tvg-name="Sony WAH" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Sony Live",Sony WAH
-https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1795741869~acl=/*~id=03511257821444669066188322389083~hmac=7caa70868ef922f8eb992cb14d71d017771aac28e77f75fcda00dcb546d1adc9
+https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1795778787~acl=/*~id=86252091218562624959991470479237~hmac=dab2354208a4e6ad02732c6fcf2b6242099413dd6f90bae9ce8f8f195eb8c71e
 #EXTINF:-1 tvg-name="Sony MAX" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="Sony Live",Sony MAX
-https://dishmt.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1795741869~acl=/*~id=03511257821444669066188322389083~hmac=7caa70868ef922f8eb992cb14d71d017771aac28e77f75fcda00dcb546d1adc9
+https://dishmt.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1795778787~acl=/*~id=86252091218562624959991470479237~hmac=dab2354208a4e6ad02732c6fcf2b6242099413dd6f90bae9ce8f8f195eb8c71e
 #EXTINF:-1 tvg-name="Sony MAX HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Sony Live",Sony MAX HD
-https://dishmt.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1795741869~acl=/*~id=03511257821444669066188322389083~hmac=7caa70868ef922f8eb992cb14d71d017771aac28e77f75fcda00dcb546d1adc9
+https://dishmt.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1795778787~acl=/*~id=86252091218562624959991470479237~hmac=dab2354208a4e6ad02732c6fcf2b6242099413dd6f90bae9ce8f8f195eb8c71e
 #EXTINF:-1 tvg-name="Sony MAX 2" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Sony Live",Sony MAX 2
-https://dishmt.slivcdn.com/hls/live/2011908/MAX2/master.m3u8?hdnea=exp=1795741869~acl=/*~id=03511257821444669066188322389083~hmac=7caa70868ef922f8eb992cb14d71d017771aac28e77f75fcda00dcb546d1adc9
+https://dishmt.slivcdn.com/hls/live/2011908/MAX2/master.m3u8?hdnea=exp=1795778787~acl=/*~id=86252091218562624959991470479237~hmac=dab2354208a4e6ad02732c6fcf2b6242099413dd6f90bae9ce8f8f195eb8c71e
 #EXTINF:-1 tvg-name="Sony PIX HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Sony Live",Sony PIX HD
-https://dishmt.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1795741869~acl=/*~id=03511257821444669066188322389083~hmac=7caa70868ef922f8eb992cb14d71d017771aac28e77f75fcda00dcb546d1adc9
+https://dishmt.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1795778787~acl=/*~id=86252091218562624959991470479237~hmac=dab2354208a4e6ad02732c6fcf2b6242099413dd6f90bae9ce8f8f195eb8c71e
 #EXTINF:-1 tvg-name="Sony BBC Earth HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Sony Live",Sony BBC Earth HD
-https://dishmt.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1795741869~acl=/*~id=03511257821444669066188322389083~hmac=7caa70868ef922f8eb992cb14d71d017771aac28e77f75fcda00dcb546d1adc9
+https://dishmt.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1795778787~acl=/*~id=86252091218562624959991470479237~hmac=dab2354208a4e6ad02732c6fcf2b6242099413dd6f90bae9ce8f8f195eb8c71e
 #EXTINF:-1 tvg-name="Sony YAY !!" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/12_259.png" group-title="Sony Live",Sony YAY !!
-https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1795741869~acl=/*~id=03511257821444669066188322389083~hmac=7caa70868ef922f8eb992cb14d71d017771aac28e77f75fcda00dcb546d1adc9
+https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1795778787~acl=/*~id=86252091218562624959991470479237~hmac=dab2354208a4e6ad02732c6fcf2b6242099413dd6f90bae9ce8f8f195eb8c71e
 #EXTINF:-1 tvg-name="Sony Marathi !!" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="Sony Live",Sony Marathi !!
-https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=1795741869~acl=/*~id=03511257821444669066188322389083~hmac=7caa70868ef922f8eb992cb14d71d017771aac28e77f75fcda00dcb546d1adc9
+https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=1795778787~acl=/*~id=86252091218562624959991470479237~hmac=dab2354208a4e6ad02732c6fcf2b6242099413dd6f90bae9ce8f8f195eb8c71e
 #EXTINF:-1 tvg-name="Sony AATH" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="Sony Live",Sony AATH
-https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1795741869~acl=/*~id=03511257821444669066188322389083~hmac=7caa70868ef922f8eb992cb14d71d017771aac28e77f75fcda00dcb546d1adc9
+https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1795778787~acl=/*~id=86252091218562624959991470479237~hmac=dab2354208a4e6ad02732c6fcf2b6242099413dd6f90bae9ce8f8f195eb8c71e
 #EXTINF:-1 tvg-name="Sony Sports 1" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/20_262.png" group-title="Sony Live",Sony Sports 1
-https://dishmt.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8?hdnea=exp=1795741869~acl=/*~id=03511257821444669066188322389083~hmac=7caa70868ef922f8eb992cb14d71d017771aac28e77f75fcda00dcb546d1adc9
+https://dishmt.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8?hdnea=exp=1795778787~acl=/*~id=86252091218562624959991470479237~hmac=dab2354208a4e6ad02732c6fcf2b6242099413dd6f90bae9ce8f8f195eb8c71e
 #EXTINF:-1 tvg-name="Sony Sports 1 HD" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/21_266.png" group-title="Sony Live",Sony Sports 1 HD
-https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1795741869~acl=/*~id=03511257821444669066188322389083~hmac=7caa70868ef922f8eb992cb14d71d017771aac28e77f75fcda00dcb546d1adc9
+https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1795778787~acl=/*~id=86252091218562624959991470479237~hmac=dab2354208a4e6ad02732c6fcf2b6242099413dd6f90bae9ce8f8f195eb8c71e
 #EXTINF:-1 tvg-name="Sony Sports 2" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/22_261.png" group-title="Sony Live",Sony Sports 2
-https://dishmt.slivcdn.com/hls/live/2020590/TEN2SD/master.m3u8?hdnea=exp=1795741869~acl=/*~id=03511257821444669066188322389083~hmac=7caa70868ef922f8eb992cb14d71d017771aac28e77f75fcda00dcb546d1adc9
+https://dishmt.slivcdn.com/hls/live/2020590/TEN2SD/master.m3u8?hdnea=exp=1795778787~acl=/*~id=86252091218562624959991470479237~hmac=dab2354208a4e6ad02732c6fcf2b6242099413dd6f90bae9ce8f8f195eb8c71e
 #EXTINF:-1 tvg-name="Sony Sports 2 HD" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/23_267.png" group-title="Sony Live",Sony Sports 2 HD
-https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?hdnea=exp=1795741869~acl=/*~id=03511257821444669066188322389083~hmac=7caa70868ef922f8eb992cb14d71d017771aac28e77f75fcda00dcb546d1adc9
+https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?hdnea=exp=1795778787~acl=/*~id=86252091218562624959991470479237~hmac=dab2354208a4e6ad02732c6fcf2b6242099413dd6f90bae9ce8f8f195eb8c71e
 #EXTINF:-1 tvg-name="Sony Sports 3 Hindi" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/24_274.png" group-title="Sony Live",Sony Sports 3 Hindi
-https://dishmt.slivcdn.com/hls/live/2020592/TEN3SD/master.m3u8?hdnea=exp=1795741869~acl=/*~id=03511257821444669066188322389083~hmac=7caa70868ef922f8eb992cb14d71d017771aac28e77f75fcda00dcb546d1adc9
+https://dishmt.slivcdn.com/hls/live/2020592/TEN3SD/master.m3u8?hdnea=exp=1795778787~acl=/*~id=86252091218562624959991470479237~hmac=dab2354208a4e6ad02732c6fcf2b6242099413dd6f90bae9ce8f8f195eb8c71e
 #EXTINF:-1 tvg-name="Sony Sports 3 Hindi HD" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/25_276.png" group-title="Sony Live",Sony Sports 3 Hindi HD
-https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1795741869~acl=/*~id=03511257821444669066188322389083~hmac=7caa70868ef922f8eb992cb14d71d017771aac28e77f75fcda00dcb546d1adc9
+https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1795778787~acl=/*~id=86252091218562624959991470479237~hmac=dab2354208a4e6ad02732c6fcf2b6242099413dd6f90bae9ce8f8f195eb8c71e
 #EXTINF:-1 tvg-name="Sony Sports 4 Tamil" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/38_275.png" group-title="Sony Live",Sony Sports 4 Tamil
-https://dishmt.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8?hdnea=exp=1795741869~acl=/*~id=03511257821444669066188322389083~hmac=7caa70868ef922f8eb992cb14d71d017771aac28e77f75fcda00dcb546d1adc9
+https://dishmt.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8?hdnea=exp=1795778787~acl=/*~id=86252091218562624959991470479237~hmac=dab2354208a4e6ad02732c6fcf2b6242099413dd6f90bae9ce8f8f195eb8c71e
 #EXTINF:-1 tvg-name="Sony Sports 4 Telugu" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/39_277.png" group-title="Sony Live",Sony Sports 4 Telugu
-https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1795741869~acl=/*~id=03511257821444669066188322389083~hmac=7caa70868ef922f8eb992cb14d71d017771aac28e77f75fcda00dcb546d1adc9
+https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1795778787~acl=/*~id=86252091218562624959991470479237~hmac=dab2354208a4e6ad02732c6fcf2b6242099413dd6f90bae9ce8f8f195eb8c71e
 #EXTINF:-1 tvg-name="Sony Sports 4 Kannada" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/SONY-SPORTS-TEN-4-KANNADA.png" group-title="Sony Live",Sony Sports 4 Kannada
-https://dishmt.slivcdn.com/hls/live/2020589-b/ten4hd/master.m3u8?hdnea=exp=1795741869~acl=/*~id=03511257821444669066188322389083~hmac=7caa70868ef922f8eb992cb14d71d017771aac28e77f75fcda00dcb546d1adc9
+https://dishmt.slivcdn.com/hls/live/2020589-b/ten4hd/master.m3u8?hdnea=exp=1795778787~acl=/*~id=86252091218562624959991470479237~hmac=dab2354208a4e6ad02732c6fcf2b6242099413dd6f90bae9ce8f8f195eb8c71e
 #EXTINF:-1 tvg-name="Sony Sports 5" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/18_265.png" group-title="Sony Live",Sony Sports 5
-https://dishmt.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8?hdnea=exp=1795741869~acl=/*~id=03511257821444669066188322389083~hmac=7caa70868ef922f8eb992cb14d71d017771aac28e77f75fcda00dcb546d1adc9
+https://dishmt.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8?hdnea=exp=1795778787~acl=/*~id=86252091218562624959991470479237~hmac=dab2354208a4e6ad02732c6fcf2b6242099413dd6f90bae9ce8f8f195eb8c71e
 #EXTINF:-1 tvg-name="Sony Sports 5 HD" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/19_270.png" group-title="Sony Live",Sony Sports 5 HD
-https://dishmt.slivcdn.com/hls/live/2020593/TEN5HD/master.m3u8?hdnea=exp=1795741869~acl=/*~id=03511257821444669066188322389083~hmac=7caa70868ef922f8eb992cb14d71d017771aac28e77f75fcda00dcb546d1adc9
-#DATE:- 26-11-2026 20:44
+https://dishmt.slivcdn.com/hls/live/2020593/TEN5HD/master.m3u8?hdnea=exp=1795778787~acl=/*~id=86252091218562624959991470479237~hmac=dab2354208a4e6ad02732c6fcf2b6242099413dd6f90bae9ce8f8f195eb8c71e
+#DATE:- 27-11-2026 06:24
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="1090556383" tvg-name="ACC Men's Asia Cup Rising Stars 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" tvg-language="English" group-title="Cricket",ENG | Sri Lanka A vs India A - Semi-Final - 26 Nov 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2119931/cricodi_2611/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6dcc0ff2fb319e1eed913baa17ae3675-1795706062733
-#EXTINF:-1 tvg-id="1090556383" tvg-name="ACC Men's Asia Cup Rising Stars 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" tvg-language="Hindi" group-title="Cricket",HIN | Sri Lanka A vs India A - Semi-Final - 26 Nov 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2119921/cricodi_2611/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6dcc0ff2fb319e1eed913baa17ae3675-1795706062733
-#EXTINF:-1 tvg-id="1090556383" tvg-name="ACC Men's Asia Cup Rising Stars 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" tvg-language="Tamil" group-title="Cricket",TAM | Sri Lanka A vs India A - Semi-Final - 26 Nov 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2119951/cricodi_2611/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6dcc0ff2fb319e1eed913baa17ae3675-1795706062733
-#EXTINF:-1 tvg-id="1090556383" tvg-name="ACC Men's Asia Cup Rising Stars 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" tvg-language="Telugu" group-title="Cricket",TEL | Sri Lanka A vs India A - Semi-Final - 26 Nov 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2119941/cricodi_2611/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6dcc0ff2fb319e1eed913baa17ae3675-1795706062733
-#EXTINF:-1 tvg-id="1090556383" tvg-name="ACC Men's Asia Cup Rising Stars 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" tvg-language="Kannada" group-title="Cricket",KAN | Sri Lanka A vs India A - Semi-Final - 26 Nov 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2119782/cricodi_2611/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6dcc0ff2fb319e1eed913baa17ae3675-1795706062733
-#EXTINF:-1 tvg-id="1090556384" tvg-name="UEFA Conference League 2026-27" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029772/1794811512327892_UECL_26_FC-Kairat-Almaty-vs-Mjallby-AIF_live_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | FC Kairat Almaty vs Mjällby AIF - 26 Nov 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2120299/Footlive2611/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6dcc0ff2fb319e1eed913baa17ae3675-1795706062733
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" group-title="sonyliv-Cricket", Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [ENG] - ACC Men's Asia Cup Rising Stars 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795751596~acl=/*~id=35222199007060493038602683779917~hmac=1ffd19fc74b431028aedfe0594f3f15314198b6cab6bce0955bdb6b844978830
+#EXTINF:-1 tvg-id="1090556666" tvg-name="India Tour of New Zealand 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" tvg-language="English" group-title="Cricket",ENG | 2nd Test - Day 1 - 27 Nov 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2119931/cricodi_2611/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a04bc784a14fd75abca30baed9664618-1795740863633
+#EXTINF:-1 tvg-id="1090556666" tvg-name="India Tour of New Zealand 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" tvg-language="Hindi" group-title="Cricket",HIN | 2nd Test - Day 1 - 27 Nov 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2119921/cricodi_2611/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a04bc784a14fd75abca30baed9664618-1795740863633
+#EXTINF:-1 tvg-id="1090556666" tvg-name="India Tour of New Zealand 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" tvg-language="Tamil" group-title="Cricket",TAM | 2nd Test - Day 1 - 27 Nov 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2119951/cricodi_2611/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a04bc784a14fd75abca30baed9664618-1795740863633
+#EXTINF:-1 tvg-id="1090556666" tvg-name="India Tour of New Zealand 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" tvg-language="Telugu" group-title="Cricket",TEL | 2nd Test - Day 1 - 27 Nov 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2119941/cricodi_2611/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a04bc784a14fd75abca30baed9664618-1795740863633
+#EXTINF:-1 tvg-id="1090556666" tvg-name="India Tour of New Zealand 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" tvg-language="Kannada" group-title="Cricket",KAN | 2nd Test - Day 1 - 27 Nov 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2119782/cricodi_2611/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a04bc784a14fd75abca30baed9664618-1795740863633
+#EXTINF:-1 tvg-id="1090556910" tvg-name="DP World Tour" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029986/1795622243895554_DP_World_Tour_BMW_PGA_day2_landscape_thumb.jpg" tvg-language="English" group-title="Golf",ENG | BMW Australian PGA Championship - Day 2 - 27 Nov 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2118865/Golf_BMW2611/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a04bc784a14fd75abca30baed9664618-1795740863633
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="sonyliv-Cricket", 2nd Test - Day 1 - 27 Nov 2026 [ENG] - India Tour of New Zealand 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795785020~acl=/*~id=43200736976088894103846010546896~hmac=2390c34446c2c01f98e82df6aed24035cb757b62f99be08b7f4580cf9807d9f7
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" group-title="sonyliv-Cricket", Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [HIN] - ACC Men's Asia Cup Rising Stars 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795751596~acl=/*~id=35222199007060493038602683779917~hmac=1ffd19fc74b431028aedfe0594f3f15314198b6cab6bce0955bdb6b844978830
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="sonyliv-Cricket", 2nd Test - Day 1 - 27 Nov 2026 [HIN] - India Tour of New Zealand 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795785020~acl=/*~id=43200736976088894103846010546896~hmac=2390c34446c2c01f98e82df6aed24035cb757b62f99be08b7f4580cf9807d9f7
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" group-title="sonyliv-Cricket", Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [TAM] - ACC Men's Asia Cup Rising Stars 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795751596~acl=/*~id=35222199007060493038602683779917~hmac=1ffd19fc74b431028aedfe0594f3f15314198b6cab6bce0955bdb6b844978830
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="sonyliv-Cricket", 2nd Test - Day 1 - 27 Nov 2026 [TAM] - India Tour of New Zealand 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795785020~acl=/*~id=43200736976088894103846010546896~hmac=2390c34446c2c01f98e82df6aed24035cb757b62f99be08b7f4580cf9807d9f7
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" group-title="sonyliv-Cricket", Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [TEL] - ACC Men's Asia Cup Rising Stars 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795751596~acl=/*~id=35222199007060493038602683779917~hmac=1ffd19fc74b431028aedfe0594f3f15314198b6cab6bce0955bdb6b844978830
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="sonyliv-Cricket", 2nd Test - Day 1 - 27 Nov 2026 [TEL] - India Tour of New Zealand 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795785020~acl=/*~id=43200736976088894103846010546896~hmac=2390c34446c2c01f98e82df6aed24035cb757b62f99be08b7f4580cf9807d9f7
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" group-title="sonyliv-Cricket", Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [KAN] - ACC Men's Asia Cup Rising Stars 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795751596~acl=/*~id=35222199007060493038602683779917~hmac=1ffd19fc74b431028aedfe0594f3f15314198b6cab6bce0955bdb6b844978830
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="sonyliv-Cricket", 2nd Test - Day 1 - 27 Nov 2026 [KAN] - India Tour of New Zealand 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795785020~acl=/*~id=43200736976088894103846010546896~hmac=2390c34446c2c01f98e82df6aed24035cb757b62f99be08b7f4580cf9807d9f7
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029772/1794811512327892_UECL_26_FC-Kairat-Almaty-vs-Mjallby-AIF_live_landscape_thumb.jpg" group-title="sonyliv-Football", FC Kairat Almaty vs Mjällby AIF - 26 Nov 2026 [ENG] - UEFA Conference League 2026-27
-https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795751596~acl=/*~id=35222199007060493038602683779917~hmac=1ffd19fc74b431028aedfe0594f3f15314198b6cab6bce0955bdb6b844978830
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029986/1795622243895554_DP_World_Tour_BMW_PGA_day2_landscape_thumb.jpg" group-title="sonyliv-Golf", BMW Australian PGA Championship - Day 2 - 27 Nov 2026 [ENG] - DP World Tour
+https://sonyeventsglobal.akamaized.net/hls/live/2118865/Golf_BMW2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795785020~acl=/*~id=43200736976088894103846010546896~hmac=2390c34446c2c01f98e82df6aed24035cb757b62f99be08b7f4580cf9807d9f7
 
 cURL Error #:Could not resolve host: www.fancode.com
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Thursday, 26 November 2026 at 8:24:34 pm
-#EXTINF:-1 tvg-id="4251055" tvg-name="Mi Emirates Vs Abu Dhabi Knight Riders" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4251055_53162_ADKR_MIE_FC-APP.jpg" tvg-language="English" group-title="Cricket",ENG | Mi Emirates Vs Abu Dhabi Knight Riders
-https://in-mc-vod.fancode.com/mumbai/4251055_english_hls_b4b255f9cb46377_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="4251087" tvg-name="Ias Invincibles Vs Yalla Shabab Giants" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4251087_53163_IAI_YSG_fc-App.jpg" tvg-language="English" group-title="Cricket",ENG | Ias Invincibles Vs Yalla Shabab Giants
-https://in-mc-vod.fancode.com/mumbai/4251087_english_hls_58107faec355684_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="4250886" tvg-name="Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Andalucia-Costa-Del-Sol-Open-De-Espana_1080_x_810.jpg" tvg-language="English" group-title="Golf",ENG | Day 1
-https://in-mc-vod.fancode.com/mumbai/4250886_english_hls_aa3ec48a8e56574_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="4250002" tvg-name="Fleetwood Town vs Tranmere Rovers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card-2.png" group-title="Football",Fleetwood Town vs Tranmere Rovers
-https://in-mc-flive.fancode.com/mumbai/4250002_english_hls_bfd758714b45006_1ta-di_h264/720p.m3u8?hdntl=Expires=1794763491~_GO=Generated~acl=/mumbai/4250002_english_hls_bfd758714b45006_1ta-di_h264/*~SessionID=280795718__d5afccfa-9f4e-41~Signature=AbO9BjiWK9VAXr2GOp5karFHM9WMIy0sQe4JCf61L1jhk77l4__34c9Ls1yrSRu4ol82isuZKf-grXmChdV-T39F_1wM
+#DATE:- Friday, 27 November 2026 at 5:14:32 am
+#EXTINF:-1 tvg-id="4249676" tvg-name="South Australia Vs Victoria" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249676_53087_SAU_VCT_FC-WEB.jpg" tvg-language="English" group-title="Cricket",ENG | South Australia Vs Victoria
+https://in-mc-vod.fancode.com/mumbai/4249676_english_hls_fffac9b5e066432_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4249676" tvg-name="South Australia Vs Victoria" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249676_53087_SAU_VCT_FC-WEB.jpg" group-title="Cricket",South Australia Vs Victoria
+https://in-mc-vod.fancode.com/mumbai/4249676_english_hls_fffac9b5e066432_1ta-di_h264/720p.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Thursday, 26 November 2026 at 9:39:30 pm
-#EXTINF:-1 tvg-id="4251055" tvg-name="Mi Emirates Vs Abu Dhabi Knight Riders" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4251055_53162_ADKR_MIE_FC-APP.jpg" tvg-language="English" group-title="Cricket",ENG | Mi Emirates Vs Abu Dhabi Knight Riders
-https://in-mc-vod.fancode.com/mumbai/4251055_english_hls_b4b255f9cb46377_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="4251087" tvg-name="Ias Invincibles Vs Yalla Shabab Giants" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4251087_53163_IAI_YSG_fc-App.jpg" tvg-language="English" group-title="Cricket",ENG | Ias Invincibles Vs Yalla Shabab Giants
-https://in-mc-vod.fancode.com/mumbai/4251087_english_hls_58107faec355684_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" group-title="sonyliv-Cricket", Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [ENG] - ACC Men's Asia Cup Rising Stars 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795752206~acl=/*~id=12703335271666546669771980028952~hmac=e788ba17b984ddfdac59fa1bab230ec404adea540e8e501bb42e2af5455f5b95
+#DATE:- Friday, 27 November 2026 at 5:14:32 am
+#EXTINF:-1 tvg-id="4249676" tvg-name="South Australia Vs Victoria" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249676_53087_SAU_VCT_FC-WEB.jpg" tvg-language="English" group-title="Cricket",ENG | South Australia Vs Victoria
+https://in-mc-vod.fancode.com/mumbai/4249676_english_hls_fffac9b5e066432_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="sonyliv-Cricket", 2nd Test - Day 1 - 27 Nov 2026 [ENG] - India Tour of New Zealand 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795785632~acl=/*~id=90412072417345495955459280515318~hmac=3422a25a5c251eff565ee540b48b430a97f4895bfdff6b2b7dfea29e727c359d
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" group-title="sonyliv-Cricket", Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [HIN] - ACC Men's Asia Cup Rising Stars 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795752206~acl=/*~id=12703335271666546669771980028952~hmac=e788ba17b984ddfdac59fa1bab230ec404adea540e8e501bb42e2af5455f5b95
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="sonyliv-Cricket", 2nd Test - Day 1 - 27 Nov 2026 [HIN] - India Tour of New Zealand 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795785632~acl=/*~id=90412072417345495955459280515318~hmac=3422a25a5c251eff565ee540b48b430a97f4895bfdff6b2b7dfea29e727c359d
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" group-title="sonyliv-Cricket", Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [TAM] - ACC Men's Asia Cup Rising Stars 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795752206~acl=/*~id=12703335271666546669771980028952~hmac=e788ba17b984ddfdac59fa1bab230ec404adea540e8e501bb42e2af5455f5b95
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="sonyliv-Cricket", 2nd Test - Day 1 - 27 Nov 2026 [TAM] - India Tour of New Zealand 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795785632~acl=/*~id=90412072417345495955459280515318~hmac=3422a25a5c251eff565ee540b48b430a97f4895bfdff6b2b7dfea29e727c359d
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" group-title="sonyliv-Cricket", Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [TEL] - ACC Men's Asia Cup Rising Stars 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795752206~acl=/*~id=12703335271666546669771980028952~hmac=e788ba17b984ddfdac59fa1bab230ec404adea540e8e501bb42e2af5455f5b95
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="sonyliv-Cricket", 2nd Test - Day 1 - 27 Nov 2026 [TEL] - India Tour of New Zealand 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795785632~acl=/*~id=90412072417345495955459280515318~hmac=3422a25a5c251eff565ee540b48b430a97f4895bfdff6b2b7dfea29e727c359d
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" group-title="sonyliv-Cricket", Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [KAN] - ACC Men's Asia Cup Rising Stars 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795752206~acl=/*~id=12703335271666546669771980028952~hmac=e788ba17b984ddfdac59fa1bab230ec404adea540e8e501bb42e2af5455f5b95
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="sonyliv-Cricket", 2nd Test - Day 1 - 27 Nov 2026 [KAN] - India Tour of New Zealand 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795785632~acl=/*~id=90412072417345495955459280515318~hmac=3422a25a5c251eff565ee540b48b430a97f4895bfdff6b2b7dfea29e727c359d
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029772/1794811512327892_UECL_26_FC-Kairat-Almaty-vs-Mjallby-AIF_live_landscape_thumb.jpg" group-title="sonyliv-Football", FC Kairat Almaty vs Mjällby AIF - 26 Nov 2026 [ENG] - UEFA Conference League 2026-27
-https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795752206~acl=/*~id=12703335271666546669771980028952~hmac=e788ba17b984ddfdac59fa1bab230ec404adea540e8e501bb42e2af5455f5b95
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029986/1795622243895554_DP_World_Tour_BMW_PGA_day2_landscape_thumb.jpg" group-title="sonyliv-Golf", BMW Australian PGA Championship - Day 2 - 27 Nov 2026 [ENG] - DP World Tour
+https://sonyeventsglobal.akamaized.net/hls/live/2118865/Golf_BMW2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795785632~acl=/*~id=90412072417345495955459280515318~hmac=3422a25a5c251eff565ee540b48b430a97f4895bfdff6b2b7dfea29e727c359d
 
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:10:02 PM 26-11-2026
+#LAST_UPDATE:07:02 AM 27-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:2
-#UPCOMING_COUNT:18
+#LIVE_COUNT:1
+#UPCOMING_COUNT:19
 
-#EXTINF:-1 tvg-id="B0HQTF8G33" tvg-name="ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7e40d3e7-4438-4ed4-bd7a-fa6405891d29/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A
+#EXTINF:-1 tvg-id="B0HMC669H2" tvg-name="India tour of New Zealand 2026 - 2nd Test - New Zealand vs India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.19313f89-c5fa-4a9c-9365-3678c06bba58/7/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",India tour of New Zealand 2026 - 2nd Test - New Zealand vs India
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b84dc7acdbb36852e3c2f308621ef492:749e3c330bfd249d934532075081f432
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lhoxwxtsh6/out/v1/45d03b6c3a334a1b90f2d4d37b9bb201/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HQ5G59P2" tvg-name="International League T20 2026 - 7th Match - Abu Dhabi Knight Riders vs Mi Emirates" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e9e3590a-0e47-4330-a056-6cd8ccb593df/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",International League T20 2026 - 7th Match - Abu Dhabi Knight Riders vs Mi Emirates
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d36396587a3e395dd49822bfb8876a30:85bfdc16276e3c741b94203dc14cf744
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nkhxmu8uyd/out/v1/55d2a00aa7234f7aa9910b17ff528780/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=bd35d5c78d37fe5adcfd88e314d1dd3c:673c68197d7960c4b1db2bb83f195171
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/vqt4ppweqx/out/v1/79d9629326f74edb996f3b3d75d3fc49/cenc.mpd
 
 #DATE:- 21-11-2026 13:38
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
@@ -183,29 +170,22 @@ https://a100live-pv-ta-amazon.akamaized.net/bom-nitro/live/clients/dash/enc/avql
 #EXTVLCOPT:http-origin=https://www.primevideo.com
 #EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
 https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-#DATE:- 26-11-2026 21:35
+#DATE:- 27-11-2026 06:50
 # Written and Directed by ✨sayan ✨
 # Join us on Telegram: t.me/sportlink10
 404: Not Found
 404: Not Found
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:10:02 PM 26-11-2026
+#LAST_UPDATE:07:02 AM 27-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:2
-#UPCOMING_COUNT:18
+#LIVE_COUNT:1
+#UPCOMING_COUNT:19
 
-#EXTINF:-1 tvg-id="B0HQTF8G33" tvg-name="ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7e40d3e7-4438-4ed4-bd7a-fa6405891d29/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A
+#EXTINF:-1 tvg-id="B0HMC669H2" tvg-name="India tour of New Zealand 2026 - 2nd Test - New Zealand vs India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.19313f89-c5fa-4a9c-9365-3678c06bba58/7/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",India tour of New Zealand 2026 - 2nd Test - New Zealand vs India
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b84dc7acdbb36852e3c2f308621ef492:749e3c330bfd249d934532075081f432
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lhoxwxtsh6/out/v1/45d03b6c3a334a1b90f2d4d37b9bb201/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HQ5G59P2" tvg-name="International League T20 2026 - 7th Match - Abu Dhabi Knight Riders vs Mi Emirates" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e9e3590a-0e47-4330-a056-6cd8ccb593df/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",International League T20 2026 - 7th Match - Abu Dhabi Knight Riders vs Mi Emirates
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d36396587a3e395dd49822bfb8876a30:85bfdc16276e3c741b94203dc14cf744
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nkhxmu8uyd/out/v1/55d2a00aa7234f7aa9910b17ff528780/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=bd35d5c78d37fe5adcfd88e314d1dd3c:673c68197d7960c4b1db2bb83f195171
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/vqt4ppweqx/out/v1/79d9629326f74edb996f3b3d75d3fc49/cenc.mpd
 
